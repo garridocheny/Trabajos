@@ -1,0 +1,34 @@
+{
+	"pokemon": [
+		{
+			"nombre": "Altaria",
+			"tipo": "Dragón, Volador",
+			"region": "Hoenn"
+		},
+		{
+			"nombre": "Ludicolo",
+			"tipo": "Agua, Planta",
+			"region": "Hoenn"
+		},
+		{
+			"nombre": "Hawlucha",
+			"tipo": "Lucha, Volador",
+			"region": "Kalos"
+		},
+		{
+			"nombre": "Maractus",
+			"tipo": "Planta",
+			"region": "Unova"
+		},
+		{
+			"nombre": "Komala",
+			"tipo": "Normal",
+			"region": "Alola"
+		},
+		{
+			"nombre": "Typhlosion",
+			"tipo": "Fuego",
+			"region": "Jhoto"
+		}
+	]
+}

@@ -1,0 +1,27 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+  <display-name>Archetype Created Web Application</display-name>
+  <servlet>
+  	<servlet-name>mavenEpuraController</servlet-name>
+  	<display-name>mavenEpuraController</display-name>
+  	<description></description>
+  	<servlet-class>mavenEpura.mavenEpuraController</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>mavenEpuraController2</servlet-name>
+  	<display-name>mavenEpuraController2</display-name>
+  	<description></description>
+  	<servlet-class>mavenEpura.mavenEpuraController2</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>mavenEpuraController</servlet-name>
+  	<url-pattern>/mavenEpuraController</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>mavenEpuraController2</servlet-name>
+  	<url-pattern>/mavenEpuraController2</url-pattern>
+  </servlet-mapping>
+</web-app>

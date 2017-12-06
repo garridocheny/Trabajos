@@ -1,0 +1,24 @@
+{
+	"superheroes": [
+		{
+			"nombre": "batman",
+			"superpoder": "dinero",
+			"color_traje": "negro"
+		},
+		{
+			"nombre": "superman",
+			"superpoder": "poderoso",
+			"color_traje": "azul"
+		},
+		{
+			"nombre": "ironman",
+			"superpoder": "traje",
+			"color_traje": "rojo"
+		},
+		{
+			"nombre": "hulk",
+			"superpoder": "fuerza",
+			"color_traje": "morado"
+		}
+	]
+}
